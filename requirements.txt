@@ -1,0 +1,10 @@
+# Use a dedicated Python environment. Exact versions may change over time.
+numpy>=2,<3
+pandas>=2,<4
+scipy>=1.13
+scikit-learn>=1.7,<2
+matplotlib>=3.9
+requests>=2.31
+joblib>=1.4
+ipykernel>=6
+notebook>=7
