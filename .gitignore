@@ -1,0 +1,9 @@
+data/
+outputs/*.joblib
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
